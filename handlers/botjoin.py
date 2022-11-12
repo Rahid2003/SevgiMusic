@@ -13,7 +13,7 @@ async def addchannel(client, message):
         invitelink = await client.export_chat_invite_link(chid)
     except:
         await message.reply_text(
-            "<b>Məni əvvəlcə admim etməlisiniz</b>",
+            "<b>Məni əvvəlcə admin etməlisiniz</b>",
         )
         return
 
