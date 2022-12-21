@@ -49,9 +49,6 @@ async def help(_, message: Message):
                          "ℹ️ Bütün əmrlərim", callback_data="admin")
                  ],[
                      InlineKeyboardButton(
-                         "✅ Məlumatlarım", callback_data="hərkəs")
-                 ],[
-                     InlineKeyboardButton(
                          "⬅️ Geri qayıt", callback_data="cbstart")
                  ]
              ]
