@@ -199,7 +199,7 @@ async def play(_, message: Message):
                       [
             [
                 InlineKeyboardButton("✅ Qrupa Əlavə Et", url=f"https://t.me/Sevgi_Music_Bot?startgroup=a"),
-                InlineKeyboardButton("💬 Qrup", url=f"https://t.me/sonbadee"),
+                InlineKeyboardButton("💬 Qrup", url=f"https://t.me/maceraailesi"),
             ],[
                 InlineKeyboardButton("🗑️ Bağla", callback_data="cls"),
             ],
@@ -264,7 +264,7 @@ async def play(_, message: Message):
                       [
             [
                 InlineKeyboardButton("✅ Qrupa Əlavə Et", url=f"https://t.me/Sevgi_Music_Bot?startgroup=a"),
-                InlineKeyboardButton("💬 Qrup", url=f"https://t.me/sonbadee"),
+                InlineKeyboardButton("💬 Qrup", url=f"https://t.me/maceraailesi"),
             ],[
                 InlineKeyboardButton("🗑️ Bağla", callback_data="cls"),
             ],
