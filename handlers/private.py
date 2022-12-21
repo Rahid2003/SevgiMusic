@@ -21,10 +21,10 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "👸 Sahibəm", url="https://t.me/sevgidida"
+                        "👸 Sahibəm", url="https://t.me/Motidida"
                     ),
                     InlineKeyboardButton(
-                        "Kanalım ❤️", url="https://t.me/Sevgiblogg"
+                        "Kanal", url="https://t.me/macera_time"
                     )
                 ],
                 [
@@ -65,10 +65,7 @@ async def cbbilgi(_, query: CallbackQuery):
           InlineKeyboardButton(
             "ℹ️ Bütün əmrlərim", callback_data ="admin")
         ],
-        [
-          InlineKeyboardButton(
-            "✅ Məlumatlarım",callback_data ="hərkəs")
-        ],
+
         [
           InlineKeyboardButton(
             "⬅️ Geri qayıt", callback_data="cbstart")
@@ -117,10 +114,10 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "👸 Sahibəm", url="https://t.me/sevgidida"
+                        "👸 Sahibəm", url="https://t.me/Motidida"
                     ),
                     InlineKeyboardButton(
-                        "Kanalım ❤️", url="https://t.me/Sevgiblogg"
+                        "Kanal", url="https://t.me/macera_time"
                     )
                 ],
                 [
