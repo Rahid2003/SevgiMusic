@@ -8,38 +8,44 @@
     "SESSION_NAME": {
       "description": "Pyrogram session'u yerləşdirin (Replit.com)",
       "required": true
+      "value": "AgC0uWq2nnrxHaHmv97dhbzqC6eyx9TLVL-uiZZitcgLrBkFXgrrbgf25raPVURHDEo945qQSZPBIoHgPgbLVi1e1N0o9bIdRnGbhdmD0j3vg4UA_NCLycnE9HOB9Z8WMOI9Y8w-oMqhuO0qDRU6k9SzFWbWgHkKZWDCn1SITHIzGDOdyVnp6y3NYtU9EazImSUUYYg06gPv5zJ-jU7sI2yiOELHlM7XYSWT0rcxU-BmxTTM9377tsUU7FNn0x1Z4BrmjBAhi5E0SStmmqfUPkYflItN9Q0vV0qxlf60ywcOJjobh44tMShPccqi2q15_kMx9ZL5-M3_C5pG1sTQchLsAAAAAU87jeQA"
+      ""
     },
     "BOT_TOKEN": {
       "description": "Bot token telegram @botfather-dan alın",
       "required": true
+      "value": "5461712721:AAFHX821IrwbRa0EA8bpezz08ASMiifGFlQ"
     },
     "BOT_NAME": {
       "description": "Musiqi botun adı yazın.",
       "required": false,
-      "value": "𝙍𝘼𝙃𝙄𝘿 𝙈𝙐𝙎𝙄𝘾 🎸"
+      "value": "𝑆𝐸𝑉𝐺𝐼 𝑀𝑈𝑆𝐼𝐶 🎵"
     },
     "BOT_USARNAME": {
       "description": "Musiqi botun istifadəçi adı @ olmadan yazın.",
       "required": true,
-      "value": "Rahid_Music_Bot"
+      "value": "Sevgi_Music_Bot"
      
     },
     "API_ID": {
       "description": "my.telegram saytda olan API-ID'ni yerləşdirin",
       "required": true
+      "value": "5461712721"
     },
     "API_HASH": {
       "description": "my.telegram saytda olan API-HASH yerləşdirin",
       "required": true
+      "value": "a03fcb372b3ec4e406b5d52f84b02e53"
     },
     "SUDO_USERS": {
       "description": "Musiqi asistan hesabının ID'si yazın.",
       "required": true
+      "value": "5451034037"
     },
     "BOT_OWNER": {
       "description": "Öz tag adını @ olmadan yazın",
       "required": true,
-      "value": "Rahid_2003"
+      "value": "Motidida"
     },
     "DURATION_LIMIT": {
       "description": "Yükləmələr üçün maksimum audio vaxt limiti (dəqiqə).",
